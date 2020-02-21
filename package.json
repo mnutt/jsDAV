@@ -8,7 +8,7 @@
     "author": "Mike de Boer <info@mikedeboer.nl>",
     "scripts": {
         "test": "node test/test_server.js",
-        "mocha": "find ./test/postgre -name '*.js' | xargs mocha"
+        "mocha": "find ./test/ -name '*.js' | xargs mocha"
     },
     "main": "lib/jsdav",
     "repository" : {
@@ -16,11 +16,11 @@
         "url" : "http://github.com/mikedeboer/jsDAV.git"
     },
     "dependencies": {
-        "asyncjs": "git://github.com/mnutt/async.js.git#28ddb08",
-        "formidable": "1.0.17",
+        "asyncjs": "0.0.13",
+        "formidable": "1.2.1",
         "xmldom": "0.1.21",
-        "xpath": "0.0.21",
-        "moment": "2.11.1"
+        "xpath": "0.0.27",
+        "moment": "2.24.0"
     },
     "optionalDependencies": {
         "jsftp": "0.5.4",
