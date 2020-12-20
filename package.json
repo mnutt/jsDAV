@@ -16,7 +16,7 @@
         "url" : "http://github.com/mikedeboer/jsDAV.git"
     },
     "dependencies": {
-        "asyncjs": "0.0.13",
+        "asyncjs": "https://github.com/mnutt/async.js.git#ad52b32",
         "formidable": "1.2.1",
         "xmldom": "0.1.21",
         "xpath": "0.0.27",

@@ -54,10 +54,9 @@ assertion-error@^1.1.0:
   resolved "https://registry.yarnpkg.com/assertion-error/-/assertion-error-1.1.0.tgz#e60b6b0e8f301bd97e5375215bda406c85118c0b"
   integrity sha512-jgsaNduz+ndvGyFt3uSuWqvy4lCnIJiovtouQN5JZHOKCS2QuhEdbcQHFhVksz2N2U9hXJo8odG7ETyWlEeuDw==
 
-asyncjs@0.0.13:
+"asyncjs@https://github.com/mnutt/async.js.git#ad52b32":
   version "0.0.13"
-  resolved "https://registry.yarnpkg.com/asyncjs/-/asyncjs-0.0.13.tgz#9a39605cdbcab1283737039d4da14310b6d91c6f"
-  integrity sha512-ZwrkJ1zbf+LMmFKbb9DylLdcf30HaJ/6vxv/2Yx0Dt/aW8cxWlwNPlBsPB3WUnu9dpbVzjWgp6ix6DdnecUhwg==
+  resolved "https://github.com/mnutt/async.js.git#ad52b322176a88ef55c76052a9b3a8aa8bd6e083"
 
 balanced-match@^1.0.0:
   version "1.0.0"
